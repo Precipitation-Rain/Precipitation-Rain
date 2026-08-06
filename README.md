@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rajvardhan Shewale 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · ML Engineer · Final-Year CS (AI & ML) @ Rajarambapu Institute of Technology</b><br/>
+  <b>Data Analyst · ML Engineer · Final-Year CSE (AI & ML) @ Rajarambapu Institute of Technology</b><br/>
   <i>I build end-to-end data products — from raw datasets to deployed, interactive applications.</i>
 </p>
 
