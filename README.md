@@ -35,7 +35,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a third-year CS (AI & ML) student who builds data products end-to-end — not just notebooks. My projects go from raw data ingestion to deployed Streamlit apps with real databases, custom ML scoring systems, and LLM-powered interfaces.
+I'm a Final-year CS (AI & ML) student who builds data products end-to-end — not just notebooks. My projects go from raw data ingestion to deployed Streamlit apps with real databases, custom ML scoring systems, and LLM-powered interfaces.
 
 - 📍 Rajarambapu Institute of Technology, Sangli, Maharashtra
 - 🔨 Built: analytics dashboards, an ML-based health risk predictor, a pharmacovigilance signal detection pipeline, and a privacy intelligence platform with an AI chatbot
